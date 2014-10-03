@@ -34,6 +34,7 @@ project-root/
   |  |- index.html
   |- server/
   |  |- <node.js logic>
+  |- tasks/
   |- .bowerrc
   |- .eslintrc
   |- bower.json
